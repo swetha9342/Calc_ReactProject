@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code{
+
+}
+
+
+.div1{
+  display: flex;
+  background-color: rgb(23, 148, 106);
+  text-align: center;
+  justify-content: space-between;
+
+}
+a{
+text-decoration: none;
+  
+}
+table,td,th{
+  border-spacing: 20px;
+  margin-left:10px;
+  border-spacing:30px ;
+}
